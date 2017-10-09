@@ -4,6 +4,7 @@
 [![Build Status](https://secure.travis-ci.org/jzaefferer/jquery-validation.svg)](http://travis-ci.org/jzaefferer/jquery-validation)
 [![devDependency Status](https://david-dm.org/jzaefferer/jquery-validation/dev-status.svg?theme=shields.io)](https://david-dm.org/jzaefferer/jquery-validation#info=devDependencies)
 [![Join the chat at https://gitter.im/jzaefferer/jquery-validation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jzaefferer/jquery-validation)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjquery-validation.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjquery-validation?ref=badge_shield)
 
 The jQuery Validation Plugin provides drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 
@@ -56,3 +57,6 @@ In case you need to adjust the built-in validation regular expression patterns, 
 ## License
 Copyright &copy; Jörn Zaefferer<br>
 Licensed under the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjquery-validation.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjquery-validation?ref=badge_large)
